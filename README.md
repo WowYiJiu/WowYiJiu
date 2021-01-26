@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Yi Jiu👋
 
-<!--
-**WowYiJiu/WowYiJiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a university student who wants to learn programming.
+- 🌱 I’m currently learning everything
+- 🥅 2021 Goals: Admitted to graduate school
+- 📫 Reach me at **1592856716@qq.com** or **wowyijiu@gmail.com**
+- ⚡ Fun fact: I like to play King of Glory Mobile Games
 
-Here are some ideas to get you started:
+### Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="WowYiJiu | Tencentqq" width="28px" src="https://simpleicons.org/icons/tencentqq.svg" />](http://wpa.qq.com/msgrd?v=3&uin=1592856716&site=qq&menu=yes)
+[<img align="left" alt="WowYiJiu | Telegram" width="28px" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/wowyijiu)
+[<img align="left" alt="WowYiJiu | Twitter" width="28px" src="https://simpleicons.org/icons/twitter.svg" />](https://twitter.com/WowYiJiu)
+[<img align="left" alt="WowYiJiu | Instagram" width="28px" src="https://simpleicons.org/icons/instagram.svg" />](https://www.instagram.com/wowyijiu/)
+
+<br />
+<br />
+
+### 🔰 Statistics 
+![WowYiJiu's github stats](https://github-readme-stats.wowyijiu.vercel.app/api?username=WowYiJiu&hide=prs&show_icons=true&theme=tokyonight)
