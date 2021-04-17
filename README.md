@@ -17,4 +17,4 @@
 <br />
 
 ### 🔰 Statistics 
-![WowYiJiu's github stats](https://github-readme-stats.wowyijiu.vercel.app/api?username=WowYiJiu&hide=prs&show_icons=true&theme=tokyonight)
+![WowYiJiu's github stats](https://github-readme-stats-wowyijiu.vercel.app/api?username=WowYiJiu&hide=prs&show_icons=true&theme=tokyonight)
