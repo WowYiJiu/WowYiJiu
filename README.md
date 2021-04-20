@@ -25,5 +25,9 @@
 
 ---
 
-### ⚡ Github Stats
+<details>
+  <summary>⚡ GitHub Stats</summary>
+
 ![WowYiJiu's github stats](https://github-readme-stats-wowyijiu.vercel.app/api?username=WowYiJiu&hide=prs&show_icons=true&theme=tokyonight)
+
+</details>
