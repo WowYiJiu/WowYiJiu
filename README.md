@@ -6,8 +6,6 @@
 - 📫 Reach me at **1592856716@qq.com** or **wowyijiu@gmail.com**
 - ⚡ Fun fact: I like to play King of Glory Mobile Games
 
-<br/>
-
 ### 📱 contact me at
 
 [<img align="left" alt="WowYiJiu | Tencentqq" width="28px" src="https://simpleicons.org/icons/tencentqq.svg" />](http://wpa.qq.com/msgrd?v=3&uin=1592856716&site=qq&menu=yes)
@@ -16,14 +14,16 @@
 [<img align="left" alt="WowYiJiu | Instagram" width="28px" src="https://simpleicons.org/icons/instagram.svg" />](https://www.instagram.com/wowyijiu/)
 
 <br/>
-<br/>
+
+---
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-<br/>
+➡️ [more blog posts...](https://wowyijiu.github.io/)
+
+---
 
 ### ⚡ Github Stats
 ![WowYiJiu's github stats](https://github-readme-stats-wowyijiu.vercel.app/api?username=WowYiJiu&hide=prs&show_icons=true&theme=tokyonight)
