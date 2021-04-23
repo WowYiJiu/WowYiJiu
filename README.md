@@ -19,7 +19,7 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Git个人常用操作](http://wowyijiu.github.io/2021/04/18/Github/)
+- [用Git手动同步上游分支代码](http://wowyijiu.github.io/2021/04/18/git/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://wowyijiu.github.io/)
