@@ -30,6 +30,6 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-![WowYiJiu's github stats](https://github-readme-stats-wowyijiu.vercel.app/api?username=WowYiJiu&hide=prs&show_icons=true&theme=tokyonight)
+![WowYiJiu's github stats](https://github-readme-stats-wowyijiu.vercel.app/api?username=WowYiJiu&hide=prs&show_icons=true&count_private=true&theme=tokyonight)
 
 </details>
