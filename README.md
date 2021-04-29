@@ -19,8 +19,8 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [通过RepoSync的方式进行同步代码](http://wowyijiu.github.io/posts/a010/)
-- [用Git手动同步上游分支代码](http://wowyijiu.github.io/posts/49e2/)
+- [通过RepoSync的方式进行同步代码](https://wowyijiu.com/posts/a010/)
+- [用Git手动同步上游分支代码](https://wowyijiu.com/posts/49e2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://wowyijiu.github.io/)
