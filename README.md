@@ -1,4 +1,4 @@
-## Hi there, I'm [Yi Jiu](https://wowyijiu.github.io/)         👋
+## Hi there, I'm [Yi Jiu](https://wowyijiu.com/)         👋
 
 ### I'm a university student who wants to learn programming.
 - 🌱 I’m currently learning everything
