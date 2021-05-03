@@ -23,7 +23,7 @@
 - [用Git手动同步上游分支代码](https://wowyijiu.com/posts/49e2/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://wowyijiu.github.io/)
+➡️ [more blog posts...](https://wowyijiu.com/)
 
 ---
 
