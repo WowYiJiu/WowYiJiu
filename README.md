@@ -1,11 +1,10 @@
 ## Hi there, I'm [Yi Jiu](https://wowyijiu.com/)         👋
 
-### Never Say Never
+### I am a man of few words
+
 - 🌱 I’m currently learning everything
 - 📫 Reach me at **wowyijiu@gmail.com**
-
-<br/>
-
+  
 ---
 
 ### 📝 Latest Blog Posts
